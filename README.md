@@ -1,7 +1,7 @@
 ## JMeter before the optimization
 ![Alt text](media/jmeterbefore1.png)
 ![Alt text](media/jemeterbefore2.png)
-## JMeter before the optimization
+## JMeter after the optimization
 ![Alt text](media/jmeterafter1.png)
 ![Alt text](media/jmeterafter2.png)
 
